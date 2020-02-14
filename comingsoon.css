@@ -1,5 +1,7 @@
 body {
-    background: #00091B;
+    background: #00091B url(images/casa_flor_outdoor.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
     color: #fff;
   }
   
@@ -26,6 +28,8 @@ body {
     -webkit-animation: fadeIn 1000ms ease;
     text-align: center;
   }
+
+
   
   h1 {
     font-size: 50px;
